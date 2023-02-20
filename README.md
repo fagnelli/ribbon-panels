@@ -4,9 +4,11 @@ Work published in F. Agnelli, M. Tricarico, A. Constantinescu.
 Shape-shifting panel from 3D printed undulated ribbon lattice
 Extreme Mechanics Letters, Elsevier BV, 2020, 42, 101089
 
-![plot](https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/unit_cell-2.png | width=100)
+<img src="https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/unit_cell-2.png" width="48">
 
-![plot](https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/panel2.png | width=100)
+<!-- ![plot](https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/unit_cell-2.png | width=100) -->
+
+![plot](https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/panel2.png)
 
 Materials that change their shape in response to external stimuli open up new 
 prospects for efficient and versatile design and shaping of three-dimensional 
