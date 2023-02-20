@@ -6,7 +6,7 @@ Extreme Mechanics Letters, Elsevier BV, 2020, 42, 101089
 
 <p float="left">
     <img src="https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/unit_cell-2.png" width="300">
-    <img src="https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/panel2.png" width="300">
+    <img src="https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/panel.png" width="300">
 </p>
 
 Materials that change their shape in response to external stimuli open up new 
