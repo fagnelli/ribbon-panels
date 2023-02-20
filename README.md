@@ -1,5 +1,12 @@
 # ribbon-panels
 
+## Authors
+- Filippo Agnelli
+- Michele Tricarico
+- Andrei Constantinescu
+
+
+
 Work published in F. Agnelli, M. Tricarico, A. Constantinescu.
 Shape-shifting panel from 3D printed undulated ribbon lattice
 Extreme Mechanics Letters, Elsevier BV, 2020, 42, 101089
