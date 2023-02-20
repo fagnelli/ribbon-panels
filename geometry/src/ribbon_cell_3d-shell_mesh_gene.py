@@ -85,6 +85,6 @@ for h in lh:
             pv.save_meshio(odirname+'abaqus/'+ofilename(domain,h)+'.inp',
                            cellmesh, file_format="abaqus")
             pv.save_meshio(odirname+'stl/'+ofilename(domain,h)+'.stl',
-                           cellmesh, file_format="stl")
+                           cellmesh, file_format="stl", binary=True)
 
 #==============================================================================#
