@@ -12,12 +12,13 @@ Operational
 - Michele Tricarico
 - Andrei Constantinescu
 
+## Abstract
+
 <p float="left">
     <img src="https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/unit_cell-2.png" width="300">
     <img src="https://github.com/fagnelli/ribbon-panels/blob/main/geometry/figures/panel.png" width="300">
 </p>
 
-## Abstract
 *Materials that change their shape in response to external stimuli open up new 
 prospects for efficient and versatile design and shaping of three-dimensional 
 objects. Here, we present a novel class of micro-structures exhibiting an 
