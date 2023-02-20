@@ -1,0 +1,13 @@
+fabrication/
+fe-analysis/
+# Geometry (ignore mesh data)
+geometry/src/old
+geometry/src/__pycache__
+geometry/b-spline/*cell_3d-curve.json
+geometry/mesh
+geometry/figures/gif
+notes/
+paper/
+presentation/
+testing/
+text-article-drahi-lms.txt
