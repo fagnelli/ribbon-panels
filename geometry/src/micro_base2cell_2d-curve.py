@@ -107,7 +107,7 @@ for nu in listnu:
 
 #   import elementary pattern	
     bsplcurve=exchange.import_json(idirname+ifilename(nu))[0]
-    bsplcurve.ctrlpts=[cp2+[0] for cp2 in bsplcurve.ctrlpts]     # from 2D to 3D
+    operations.add_dimension(bsplcurve, inplace=True)
     pspline.append(bsplcurve)
 
 #   construct cross by rotating the base around the center
