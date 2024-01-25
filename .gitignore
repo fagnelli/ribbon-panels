@@ -1,5 +1,6 @@
 fabrication/
-fe-analysis/
+# Fe-analysis (import only periodic analysis)
+fe-analysis
 # Geometry (ignore mesh data)
 geometry/src/old
 geometry/src/__pycache__
